@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Pascal Barraza</h1>
 <h3 align="center">Soy ingeniera en negocios internacionales y me apasionan los datos.</h3>
 
-- 🔭 Estoy buscando mi primer empleo en **Data analytics 🤝**
+- 🔭 Soy analista de datos 🤝**
 
-- 🌱 Actualmente estudio diplomado en **Data science & Business intelligence**
+- 🌱 Me he especializado en ciencia de datos e inteligencia de negocios y actualmente estoy cursando un postgrado en Big Data**
 
 - 📫 Puedes contactarme en **Pascalbarraza43@gmail.com**
 
